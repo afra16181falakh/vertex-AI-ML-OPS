@@ -39,6 +39,7 @@
 ---
 > This is the original readme from prior to the shift in this repository.  After the content rearrangement is complete and this information is incorporate above it will be removed.  
 
+
 ## 👋 I'm Afra
 
 I want to share and enable [Vertex AI](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform) from [Google Cloud](https://cloud.google.com/vertex-ai) with you.  The goal here is to share a comprehensive set of end-to-end workflows for machine learning that each cover the range of data to model to serving and managing - even automating the flow.  Regardless of your data type, skill level or framework preferences you will find something helpful here.  You can even ask for what you need and I might be able to work it into updates! 
