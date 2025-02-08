@@ -117,6 +117,7 @@ So where does the code in the repository fall? In the late **develop** phase wit
 - [Helpful Sections](#helpful)
 - [More Resources](#resources)
 
+
 ---
 <a id = 'considerations'></a>
 ## Considerations
